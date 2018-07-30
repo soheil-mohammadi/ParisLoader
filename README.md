@@ -7,3 +7,14 @@ It works for api +16 ;)
 
 # HOW TO USE THIS LIBRARY ?!
 
+Add the dependency :
+
+```gradle
+	dependencies {
+		compile 'com.soheil-mohammadi:PersianDatePickerModule:2.0.6'
+	}
+
+```
+
+
+
